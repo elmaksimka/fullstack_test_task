@@ -9,7 +9,7 @@ POST https://api.byteplex.info/api/test/contact/
 ![img_2.png](img_2.png)
 
 - Register any free domain name
-- Deploy current project to any static website hosting
+- Deploy current project to any free static website hosting
 - Attach previously registered domain to the deployed project 
 
 ### Task result:
