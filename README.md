@@ -1,15 +1,16 @@
 ## FullStack Developer Test Task
 
-1. Fork current repository to your GitHub account 
-2. Add handler to the contact form (index.html) and send form data with the following format: 
+- Fork current repository to your GitHub account 
+- Add handler to the contact form (index.html) and send form data with the following format: 
 ```
 POST https://api.byteplex.info/api/test/contact/
 ```
 ![img_1.png](img_1.png)
 ![img_2.png](img_2.png)
-3. Register any free domain name
-4. Deploy current project to any static website hosting
-5. Attach previously registered domain to the deployed project 
+
+- Register any free domain name
+- Deploy current project to any static website hosting
+- Attach previously registered domain to the deployed project 
 
 ### Task result:
 
