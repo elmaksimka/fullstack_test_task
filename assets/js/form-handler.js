@@ -1,9 +1,7 @@
 function submitForm(event) {
   event.preventDefault();
 
-  // document.getElementById("success-message").style.display = "none";
-  const test = document.getElementById("success-message");
-  console.log(test);
+  document.getElementById("success-message").style.display = "none";
 
   const name = document.getElementById("name").value;
   const email = document.getElementById("email").value;
