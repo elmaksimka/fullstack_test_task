@@ -3219,3 +3219,23 @@ input, select, textarea {
 			}
 
 	}
+
+	#success-message {
+		display: none;
+		padding: 10px;
+		background-color: #4caf50;
+		color: #fff;
+		font-size: 16px;
+		border-radius: 4px;
+		margin-top: 10px;
+		animation: fadeOut 5s forwards;
+	  }
+	  @keyframes fadeOut {
+		0% {
+		  opacity: 1;
+		}
+		100% {
+		  opacity: 0;
+		  display: none;
+		}
+	  }
